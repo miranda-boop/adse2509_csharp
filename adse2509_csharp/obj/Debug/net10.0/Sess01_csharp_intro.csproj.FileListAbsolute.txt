@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\bin\Debug\net10.0\Sess01_csharp_intro.exe
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\bin\Debug\net10.0\Sess01_csharp_intro.deps.json
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\bin\Debug\net10.0\Sess01_csharp_intro.runtimeconfig.json
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\bin\Debug\net10.0\Sess01_csharp_intro.dll
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\bin\Debug\net10.0\Sess01_csharp_intro.pdb
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\Sess01_csharp_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\Sess01_csharp_intro.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\Sess01_csharp_intro.AssemblyInfo.cs
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\Sess01_csharp_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\Sess01_csharp_intro.dll
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\refint\Sess01_csharp_intro.dll
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\Sess01_csharp_intro.pdb
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\Sess01_csharp_intro.genruntimeconfig.cache
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\ref\Sess01_csharp_intro.dll
+C:\Users\User\source\repos\adse2509_csharp\adse2509_csharp\obj\Debug\net10.0\Sess01_c.56162CC7.Up2Date

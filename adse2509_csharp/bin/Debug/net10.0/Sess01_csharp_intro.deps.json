@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sess01_csharp_intro/1.0.0": {
+        "runtime": {
+          "Sess01_csharp_intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sess01_csharp_intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

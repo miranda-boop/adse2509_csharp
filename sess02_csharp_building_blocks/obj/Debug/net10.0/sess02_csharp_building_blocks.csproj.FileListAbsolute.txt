@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.exe
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.deps.json
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.runtimeconfig.json
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.dll
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.pdb
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.AssemblyInfo.cs
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.dll
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\refint\sess02_csharp_building_blocks.dll
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.pdb
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.genruntimeconfig.cache
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\ref\sess02_csharp_building_blocks.dll
+C:\Users\User\source\repos\adse2509_csharp\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_c.BD468D7A.Up2Date
